@@ -2,7 +2,7 @@
 
 ### A Python-Based Project for Stock Market Analysis, Statistical Operations, and Data Visualization
 
-## 📌 Project Overview
+## Project Overview
 
 The **Stock Market Data Analysis & Visualization** project is a Python-based application that analyzes stock market datasets using Pandas, NumPy, Matplotlib, and Seaborn.
 
@@ -55,7 +55,7 @@ Generate six different visualizations:
 - Analyze stock price trends.
 - Generate a final stock report.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -64,7 +64,7 @@ Generate six different visualizations:
 - Seaborn
 - Jupyter Notebook
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 
@@ -73,7 +73,7 @@ Generate six different visualizations:
 └── main.ipynb
 ```
 
-## 📋 Dataset Columns
+## Dataset Columns
 
 The project uses stock market CSV data containing columns such as:
 
@@ -91,7 +91,7 @@ The project uses stock market CSV data containing columns such as:
 - Market_Cap_Cr_Approx
 - Currency
 
-## ⚙️ Installation
+## Installation
 
 **Step 1: Install Python**
 
