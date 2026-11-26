@@ -117,7 +117,7 @@ jupyter notebook
 
 Open `main.ipynb` and run the notebook cells.
 
-## 📊 How to Use
+## How to Use
 
 1. Run the notebook.
 2. Enter the CSV dataset path.
@@ -129,7 +129,7 @@ Open `main.ipynb` and run the notebook cells.
 
 **Note:** If the dataset contains multiple companies, select or filter a particular stock using its `Symbol` before performing stock-specific analysis.
 
-## 🎯 Project Objective
+## Project Objective
 
 The main objective of this project is to understand stock market data, perform statistical analysis, identify price trends, analyze trading activity, and visualize financial information using Python.
 
